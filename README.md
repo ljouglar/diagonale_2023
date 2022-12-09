@@ -48,7 +48,9 @@ On parle d'un budget à partir de 1100 €
 
 ### Assistance
 
-La plus importante : Cilaos, juste avant Mafate
+La plus importante : Cilaos, juste avant Mafate.
+
+Association de gendarmes : assistance + massages, 25 € pour l'année.
 
 ### La Diagonale des Fous
 
