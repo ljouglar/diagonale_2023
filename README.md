@@ -61,6 +61,7 @@ Association de gendarmes : assistance + massages, 25 € pour l'année.
 - Lolo J
 - Dom
 - Micka F
+- Anthony Méthegner
 
 ### La Mascareignes
 
