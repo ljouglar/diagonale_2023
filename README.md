@@ -2,9 +2,9 @@
 
 ## Les dates
 
-Départ de la grande : jeudi 19/10/2033 à 21:00
+Départ de la grande : jeudi 19/10/2023 à 21:00
 
-Mascareignes : vendredi 20/10/2033 à 01:00
+Mascareignes : vendredi 20/10/2023 à 01:00
 
 ## Le trajet
 
@@ -40,7 +40,7 @@ Voiture de location, 35€/j une Clio 4
 
 ### Inscription - packages
 
-Probablement le lundi 09/01/2033 à 09:00
+Probablement le lundi 09/01/2023 à 09:00
 
 Préférer le PC plutôt que le mobile pour l'inscription.
 
